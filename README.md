@@ -4,8 +4,8 @@ NIM : 362358302150
 
 KELAS : 2B TRPL
 
-                                                              PRAKTIKUM MOBILE-DEVELOPMENT
-                                                          Aplikasi Monitoring Kehadiran Siswa
+                                                PRAKTIKUM MOBILE-DEVELOPMENT
+                                             Aplikasi Monitoring Kehadiran Siswa
 
 
 HASIL PRAKTIKUM :
